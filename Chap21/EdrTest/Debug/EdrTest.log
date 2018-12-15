@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(.\Debug\)包含从另一个项目(EdrLib.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  EdrTest.c
+EdrTest.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  EdrTest.vcxproj -> D:\microsoft\windows-program-design\Chap21\EdrTest\.\Debug\EdrTest.exe

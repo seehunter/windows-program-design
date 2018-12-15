@@ -1,0 +1,4 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  BlokOut1.c
+BlokOut1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  BlokOut1.vcxproj -> D:\microsoft\windows-program-design\Chap07\BlokOut1\.\Debug\BlokOut1.exe

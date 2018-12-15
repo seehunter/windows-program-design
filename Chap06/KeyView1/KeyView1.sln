@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KeyView1", "KeyView1.vcxproj", "{FD5F4156-ECA5-4CE3-928A-38742DF97FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5F4156-ECA5-4CE3-928A-38742DF97FC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD5F4156-ECA5-4CE3-928A-38742DF97FC8}.Debug|Win32.Build.0 = Debug|Win32
+		{FD5F4156-ECA5-4CE3-928A-38742DF97FC8}.Release|Win32.ActiveCfg = Release|Win32
+		{FD5F4156-ECA5-4CE3-928A-38742DF97FC8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E1DE911-697A-4EB8-9CD1-E4D56EBA1FE4}
+	EndGlobalSection
+EndGlobal
